@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  header {
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/281/773/145/anime-anime-girls-kono-subarashii-sekai-ni-shukufuku-wo-megumin-wallpaper-preview.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    text-align: center;
+
+    .highlight {
+      color: #b9b9b9
+    }
+  }
+
+  #round-rectangular-frame {
+    display: flex;
+    justify-content: center;
+    overflow-wrap: break-word;
+    border: 5px solid #6a4a57;
+    border-radius: 10px;
+    padding: 20px;
+    width: auto;
+    height: 100%;
+    text-align: center;
+    line-height: 100px;
+    margin: 0 auto;
+    position: relative;
+  }
+
+    
+
+
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+
+  #round-rectangle-container {
+    justify-content: center;
+    background-color: #f9b64e; 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+    width: 100%; 
+    height: 100%; 
+    text-align: justify;
+    position: relative;
+  }
+  
+  ul {
+    list-style-type: circle;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .bold-text {
+    font: bold 24px Arial, sans-serif; 
+  }
+
+
+
+  
