@@ -11,7 +11,9 @@ body {
       padding: 10px;
       text-align: center;
     }
-
+    h1 {
+      color: #fee66b;
+    }
     .container {
     background-color: #607ea9;
       display: flex;
